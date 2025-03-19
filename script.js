@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function () {
         },
         {
             title: 'We Need All Da Vibes - Playboi Carti, Young Thug & Ty Dolla $ign',
-            url: 'Playboi Carti - WE NEED ALL DA VIBES [feat. Young Thug & Ty Dolla $ign] (Official Audio).mp3'
+            url: 'WE NEED ALL DA VIBES.mp3'
         },
 
     ];
