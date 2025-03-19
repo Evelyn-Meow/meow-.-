@@ -64,7 +64,12 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             title: 'Walk on By - Nxworries, Anderson .Paak, Earl Sweatshirt & Rae Khalil',
             url: 'walk_on_by.mp3'
-        }
+        },
+        {
+            title: 'We Need All Da Vibes - Playboi Carti, Young Thug & Ty Dolla $ign',
+            url: 'Playboi Carti - WE NEED ALL DA VIBES [feat. Young Thug & Ty Dolla $ign] (Official Audio).mp3'
+        },
+
     ];
 
     let currentTrackIndex = 0;
